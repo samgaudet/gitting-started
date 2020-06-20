@@ -1,2 +1,3 @@
 # gitting-started
-Some basic fun with Git
+
+A git ole fun time
